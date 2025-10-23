@@ -60,4 +60,5 @@ def St_Petersburg ():
 
  #Run
 
-St_Petersburg ()
+def main():
+     St_Petersburg ()
